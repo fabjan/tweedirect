@@ -2,6 +2,8 @@
 
 Tweedirect redirects tweet links to their embed page.
 
+https://tweedirect.fly.dev/
+
 ## Requirements
 
 * [Poly/ML] or [MLton]
