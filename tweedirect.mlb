@@ -1,0 +1,7 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  src/http.sml
+in
+  src/tweedirect.sml
+  src/main.sml
+end
